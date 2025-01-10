@@ -28,3 +28,30 @@ This is a backend application built with FastAPI to fetch and calculate arbitrag
 ```bash
 git clone <repository-url>
 cd <repository-directory>
+
+2. Set Up Virtual Environment
+Create and activate a virtual environment:
+
+bash
+Copy code
+# Create the virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# On Linux/macOS:
+source venv/bin/activate
+# On Windows:
+venv\Scripts\activate
+3. Install Dependencies
+Install the required Python packages:
+
+bash
+Copy code
+pip install -r requirements.txt
+4. Configure Environment Variables
+Create a .env file in the root directory with the following keys:
+
+env
+Copy code
+BINANCE_API_KEY=your_binance_api_key
+BINANCE_API_SECRET=your_binance_api_secret
