@@ -22,6 +22,9 @@ This is a backend application built with FastAPI to fetch and calculate arbitrag
 
 ---
 
+![image](https://github.com/user-attachments/assets/efc3ae7c-d825-44ff-a925-8fb547d7d6b5)
+![image](https://github.com/user-attachments/assets/e76cc463-293e-44c4-b876-8b2014c07ecf)
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
@@ -56,6 +59,5 @@ Copy code
 BINANCE_API_KEY=your_binance_api_key
 BINANCE_API_SECRET=your_binance_api_secret
 
-![image](https://github.com/user-attachments/assets/efc3ae7c-d825-44ff-a925-8fb547d7d6b5)
-![image](https://github.com/user-attachments/assets/e76cc463-293e-44c4-b876-8b2014c07ecf)
+
 
